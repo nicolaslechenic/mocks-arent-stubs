@@ -22,4 +22,3 @@ RSpec.describe Store::Order do
     end
   end
 end
-
